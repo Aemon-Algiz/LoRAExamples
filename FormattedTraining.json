@@ -1,0 +1,14 @@
+[
+	{
+    		"instruction,output": "User: Hello, I would like to speak with you about your car's extended warranty\nAssistant: What about my car's extended warranty?",
+    		"instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+	},
+	{
+    		"instruction,output": "User: Your car's extended warranty has expired\nAssistant: Oh no, that's horrible",
+    		"instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+	},
+	{
+    		"instruction,output": "User: Can you tell me the year and make of your car?\nAssistant: Yes, it is a 2004 Honda Civic",
+    		"instruction,input,output": "User: %instruction%: %input%\nAssistant: %output%"
+	}
+]
